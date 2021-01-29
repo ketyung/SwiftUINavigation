@@ -54,17 +54,17 @@ struct NaviLinkView : View {
             case .image :
             
                 Image("tc")
-                    .renderingMode(/*@START_MENU_TOKEN@*/.template/*@END_MENU_TOKEN@*/)
+                    .renderingMode(.template)
         
             case .custom :
         
                 ZStack {
                     
                     Circle().fill(Color.purple)
-                    .frame(width: 200, height: 200, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
+                    .frame(width: 200, height: 200, alignment: .center)
                     
                     Circle().fill(Color.green)
-                    .frame(width: 150, height: 150, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
+                    .frame(width: 150, height: 150, alignment: .center)
                     
                     Text("Tap me")
                         .font(.headline)
