@@ -7,19 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1023A8C625AA9B770035968F /* NaviLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1023A8C525AA9B770035968F /* NaviLinkView.swift */; };
+		1023A8C925AAA52A0035968F /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1023A8C825AAA52A0035968F /* Extensions.swift */; };
+		1023A8CE25AAA6380035968F /* Book1.json in Resources */ = {isa = PBXBuildFile; fileRef = 1023A8CD25AAA5AC0035968F /* Book1.json */; };
 		104B54C425A9376300C478ED /* SwiftUINavigationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104B54C325A9376300C478ED /* SwiftUINavigationApp.swift */; };
-		104B54C625A9376300C478ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104B54C525A9376300C478ED /* ContentView.swift */; };
+		104B54C625A9376300C478ED /* Example1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104B54C525A9376300C478ED /* Example1.swift */; };
 		104B54C825A9376400C478ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 104B54C725A9376400C478ED /* Assets.xcassets */; };
 		104B54CB25A9376400C478ED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 104B54CA25A9376400C478ED /* Preview Assets.xcassets */; };
+		104D0D8525A95AAB00128CC0 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104D0D8425A95AAB00128CC0 /* InfoView.swift */; };
+		104D0D8825A95FA300128CC0 /* Example2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104D0D8725A95FA300128CC0 /* Example2.swift */; };
+		104D0D8D25A9925000128CC0 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104D0D8C25A9925000128CC0 /* DetailView.swift */; };
+		104D0D9125A9962800128CC0 /* Example3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104D0D9025A9962800128CC0 /* Example3.swift */; };
+		10BA34BA25BA57BD00346703 /* Example4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BA34B925BA57BD00346703 /* Example4.swift */; };
+		10BA34C325BCFD3100346703 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BA34C225BCFD3100346703 /* Menu.swift */; };
+		10BA34C725BD03A600346703 /* Menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 10BA34C525BCFF4900346703 /* Menu.json */; };
+		10BA34CB25BD23BF00346703 /* NavBarVersionModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BA34CA25BD23BE00346703 /* NavBarVersionModifier.swift */; };
+		10BA34CE25BD23FD00346703 /* CustomBackButtonModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BA34CD25BD23FD00346703 /* CustomBackButtonModifier.swift */; };
+		10BA34D125BD242B00346703 /* NavigationBarConfigModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BA34D025BD242B00346703 /* NavigationBarConfigModifier.swift */; };
+		10BA34D425BD245500346703 /* WithNavigationViewWrapperModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BA34D325BD245500346703 /* WithNavigationViewWrapperModifier.swift */; };
+		10BA34D725BD5F2200346703 /* View1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BA34D625BD5F2200346703 /* View1.swift */; };
+		10BA34DA25BD5F5700346703 /* View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BA34D925BD5F5700346703 /* View2.swift */; };
+		10EB29CF25C2593D002D250E /* Screen1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB29CE25C2593D002D250E /* Screen1.swift */; };
+		10EB29D225C259C1002D250E /* Screen2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB29D125C259C1002D250E /* Screen2.swift */; };
+		10EB29D525C25ED6002D250E /* Screen3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB29D425C25ED6002D250E /* Screen3.swift */; };
+		10EB29D825C26A9C002D250E /* Screen4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB29D725C26A9C002D250E /* Screen4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1023A8C525AA9B770035968F /* NaviLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaviLinkView.swift; sourceTree = "<group>"; };
+		1023A8C825AAA52A0035968F /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		1023A8CD25AAA5AC0035968F /* Book1.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Book1.json; sourceTree = "<group>"; };
 		104B54C025A9376300C478ED /* SwiftUINavigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUINavigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		104B54C325A9376300C478ED /* SwiftUINavigationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUINavigationApp.swift; sourceTree = "<group>"; };
-		104B54C525A9376300C478ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		104B54C525A9376300C478ED /* Example1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example1.swift; sourceTree = "<group>"; };
 		104B54C725A9376400C478ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		104B54CA25A9376400C478ED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		104B54CC25A9376400C478ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		104D0D8425A95AAB00128CC0 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		104D0D8725A95FA300128CC0 /* Example2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example2.swift; sourceTree = "<group>"; };
+		104D0D8C25A9925000128CC0 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		104D0D9025A9962800128CC0 /* Example3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example3.swift; sourceTree = "<group>"; };
+		10BA34B925BA57BD00346703 /* Example4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example4.swift; sourceTree = "<group>"; };
+		10BA34C225BCFD3100346703 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		10BA34C525BCFF4900346703 /* Menu.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Menu.json; sourceTree = "<group>"; };
+		10BA34CA25BD23BE00346703 /* NavBarVersionModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBarVersionModifier.swift; sourceTree = "<group>"; };
+		10BA34CD25BD23FD00346703 /* CustomBackButtonModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackButtonModifier.swift; sourceTree = "<group>"; };
+		10BA34D025BD242B00346703 /* NavigationBarConfigModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarConfigModifier.swift; sourceTree = "<group>"; };
+		10BA34D325BD245500346703 /* WithNavigationViewWrapperModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithNavigationViewWrapperModifier.swift; sourceTree = "<group>"; };
+		10BA34D625BD5F2200346703 /* View1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View1.swift; sourceTree = "<group>"; };
+		10BA34D925BD5F5700346703 /* View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2.swift; sourceTree = "<group>"; };
+		10EB29CE25C2593D002D250E /* Screen1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen1.swift; sourceTree = "<group>"; };
+		10EB29D125C259C1002D250E /* Screen2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen2.swift; sourceTree = "<group>"; };
+		10EB29D425C25ED6002D250E /* Screen3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen3.swift; sourceTree = "<group>"; };
+		10EB29D725C26A9C002D250E /* Screen4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +92,25 @@
 		104B54C225A9376300C478ED /* SwiftUINavigation */ = {
 			isa = PBXGroup;
 			children = (
+				10BA34C925BD238B00346703 /* customModifiers */,
 				104B54C325A9376300C478ED /* SwiftUINavigationApp.swift */,
-				104B54C525A9376300C478ED /* ContentView.swift */,
+				104B54C525A9376300C478ED /* Example1.swift */,
+				104D0D8725A95FA300128CC0 /* Example2.swift */,
+				10BA34B925BA57BD00346703 /* Example4.swift */,
+				10BA34C225BCFD3100346703 /* Menu.swift */,
+				104D0D9025A9962800128CC0 /* Example3.swift */,
+				104D0D8425A95AAB00128CC0 /* InfoView.swift */,
+				10BA34D625BD5F2200346703 /* View1.swift */,
+				10BA34D925BD5F5700346703 /* View2.swift */,
+				10EB29CE25C2593D002D250E /* Screen1.swift */,
+				10EB29D125C259C1002D250E /* Screen2.swift */,
+				10EB29D425C25ED6002D250E /* Screen3.swift */,
+				10EB29D725C26A9C002D250E /* Screen4.swift */,
+				1023A8C525AA9B770035968F /* NaviLinkView.swift */,
+				104D0D8C25A9925000128CC0 /* DetailView.swift */,
+				1023A8CD25AAA5AC0035968F /* Book1.json */,
+				10BA34C525BCFF4900346703 /* Menu.json */,
+				1023A8C825AAA52A0035968F /* Extensions.swift */,
 				104B54C725A9376400C478ED /* Assets.xcassets */,
 				104B54CC25A9376400C478ED /* Info.plist */,
 				104B54C925A9376400C478ED /* Preview Content */,
@@ -67,6 +124,17 @@
 				104B54CA25A9376400C478ED /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		10BA34C925BD238B00346703 /* customModifiers */ = {
+			isa = PBXGroup;
+			children = (
+				10BA34CA25BD23BE00346703 /* NavBarVersionModifier.swift */,
+				10BA34CD25BD23FD00346703 /* CustomBackButtonModifier.swift */,
+				10BA34D025BD242B00346703 /* NavigationBarConfigModifier.swift */,
+				10BA34D325BD245500346703 /* WithNavigationViewWrapperModifier.swift */,
+			);
+			path = customModifiers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +194,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10BA34C725BD03A600346703 /* Menu.json in Resources */,
+				1023A8CE25AAA6380035968F /* Book1.json in Resources */,
 				104B54CB25A9376400C478ED /* Preview Assets.xcassets in Resources */,
 				104B54C825A9376400C478ED /* Assets.xcassets in Resources */,
 			);
@@ -138,7 +208,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				104B54C625A9376300C478ED /* ContentView.swift in Sources */,
+				104D0D9125A9962800128CC0 /* Example3.swift in Sources */,
+				10BA34D425BD245500346703 /* WithNavigationViewWrapperModifier.swift in Sources */,
+				104D0D8825A95FA300128CC0 /* Example2.swift in Sources */,
+				10BA34DA25BD5F5700346703 /* View2.swift in Sources */,
+				10BA34CB25BD23BF00346703 /* NavBarVersionModifier.swift in Sources */,
+				10EB29CF25C2593D002D250E /* Screen1.swift in Sources */,
+				10EB29D525C25ED6002D250E /* Screen3.swift in Sources */,
+				10EB29D225C259C1002D250E /* Screen2.swift in Sources */,
+				10BA34D725BD5F2200346703 /* View1.swift in Sources */,
+				104B54C625A9376300C478ED /* Example1.swift in Sources */,
+				10BA34CE25BD23FD00346703 /* CustomBackButtonModifier.swift in Sources */,
+				1023A8C925AAA52A0035968F /* Extensions.swift in Sources */,
+				10BA34D125BD242B00346703 /* NavigationBarConfigModifier.swift in Sources */,
+				10BA34C325BCFD3100346703 /* Menu.swift in Sources */,
+				104D0D8525A95AAB00128CC0 /* InfoView.swift in Sources */,
+				1023A8C625AA9B770035968F /* NaviLinkView.swift in Sources */,
+				10EB29D825C26A9C002D250E /* Screen4.swift in Sources */,
+				104D0D8D25A9925000128CC0 /* DetailView.swift in Sources */,
+				10BA34BA25BA57BD00346703 /* Example4.swift in Sources */,
 				104B54C425A9376300C478ED /* SwiftUINavigationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

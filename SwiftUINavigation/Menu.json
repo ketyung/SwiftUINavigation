@@ -1,0 +1,17 @@
+[
+    { "title" : "Example 1 - NavigationLink's destination is a Text view", "pushToViewType" : "example1"},
+    { "title" : "Example 2 - NavigationLink's destination is a HStack of 3 images of SFSymbol", "pushToViewType" : "example2"},
+    { "title" : "Example 3 - NavigationLink's destination is a custom DetailView", "pushToViewType" : "example3"},
+    { "title" : "Example 4 - NavigationLink's destination is a custom DetailView with Title and custom back button", "pushToViewType" : "example4"},
+    { "title" : "Example 5 - NavigationLink wrap around a Text View", "pushToViewType" : "example5", "navigationLinkViewType" : 1},
+    { "title" : "Example 5 - NavigationLink wrap around an Image View (SF Symbol)", "pushToViewType" : "example5",
+        "navigationLinkViewType" : 2},
+    { "title" : "Example 5 - NavigationLink wrap around an Image View (assets)","pushToViewType" : "example5",
+        "navigationLinkViewType" : 3},
+    { "title" : "Example 5 - NavigationLink wrap around a custom View", "pushToViewType" : "example5",
+        "navigationLinkViewType" : 4},
+    { "title" : "Example 6 - View 1 Push To View 2 with custom back button", "pushToViewType" : "example6"},
+    { "title" : "Example 7 - Navigation of Screen 1 to Screen 2 to Screen 3", "pushToViewType" : "example7"},
+    { "title" : "Example 8 - Screen 4 to present Screen 2 modally using sheet()", "pushToViewType" : "example8"}
+    
+]

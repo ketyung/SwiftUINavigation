@@ -11,7 +11,13 @@ import SwiftUI
 struct SwiftUINavigationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           
+           Menu()
+            
+           //Screen4()
+           // Screen1()
+            //Example4()
+            //NaviLinkView()
         }
     }
 }
